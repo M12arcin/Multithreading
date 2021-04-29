@@ -1,0 +1,2 @@
+JMH S 28 org.PW.MergeSort.Performance S 66 org.PW.MergeSort.generated.Performance_PerformanceSequence_jmhTest S 19 PerformanceSequence S 11 AverageTime E A 1 1 1 E I 1 1 E E I 2 10 E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
+JMH S 28 org.PW.MergeSort.Performance S 66 org.PW.MergeSort.generated.Performance_PerformanceParallel_jmhTest S 19 PerformanceParallel S 11 AverageTime E A 1 1 1 E I 1 1 E E I 2 10 E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
